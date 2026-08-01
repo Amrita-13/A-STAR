@@ -121,7 +121,6 @@ return None
 
 <hr>
 <h2>Sample Graph I</h2>
-<img width="1590" height="1079" alt="277151990-b1377c3f-011a-4c0f-a843-516842ae056a" src="https://github.com/user-attachments/assets/8b246a9f-4a79-48b3-b95c-f14f6aaef31b" />
 
 <hr>
 
@@ -228,3 +227,5 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+# RESULT:
+Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
